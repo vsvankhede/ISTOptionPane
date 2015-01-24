@@ -1,7 +1,11 @@
 # ISTOptionPane
+
 This library is for good look &amp; feel for JOptionPane.
 * easy to use
 * Eye catching ui
+
+To use this library first download .jar files from jar folder.
+Then import this jar file to your project.
 
 To set title and the question in ISTOptionPane
 Use following code 
