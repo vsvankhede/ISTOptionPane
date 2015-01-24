@@ -16,6 +16,8 @@ ex:
 ```java 
 ist.displaypane("Conformation", "Do you want to save this?")
 ```
+![alt tag](https://github.com/vsvankhede/ISTOptionPane/blob/master/build/Capture.JPG)
+
 
 To get user action
 Use following code
